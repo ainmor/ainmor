@@ -4,8 +4,6 @@
 
 I'm Ain Mor from India, and I do Software Development. I really enjoy learning languages and frameworks like .NET, React, Angular as well as work in Visual Studio and Visual Studio Code. I also enjoy creating Wireframe, UI, Specification, Technical Documents and Architecture of the softwares required by an Enterprise or a Company in General.
 
-![Ain's GitHub stats](https://github-readme-stats.vercel.app/api?username=ainmor&show_icons=true&theme=radical)
-
 Skills: C# / C++ / Kendo UI / Blazor UI / .NET Core API / HTML / CSS / React / Angular
 
 - 🌱 I’m currently learning .NET Technologies 
@@ -15,3 +13,14 @@ Skills: C# / C++ / Kendo UI / Blazor UI / .NET Core API / HTML / CSS / React / A
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ainmor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ain-mor-173977213/)  
 
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ainmor)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ainmor)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ainmor&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ainmor)  
+
+![Profile views](https://gpvc.arturio.dev/ainmor)  
