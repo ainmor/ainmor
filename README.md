@@ -4,6 +4,8 @@
 
 I'm Ain Mor from India, and I do Software Development. I really enjoy learning languages and frameworks like .NET, React, Angular as well as work in Visual Studio and Visual Studio Code. I also enjoy creating Wireframe, UI, Specification, Technical Documents and Architecture of the softwares required by an Enterprise or a Company in General.
 
+![Ain's GitHub stats](https://github-readme-stats.vercel.app/api?username=ainmor&show_icons=true&theme=radical)
+
 Skills: C# / C++ / Kendo UI / Blazor UI / .NET Core API / HTML / CSS / React / Angular
 
 - 🌱 I’m currently learning .NET Technologies 
