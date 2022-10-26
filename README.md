@@ -17,7 +17,7 @@ Skills: C# / C++ / Kendo UI / Blazor UI / .NET Core API / HTML / CSS / React / A
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ainmor)](https://github.com/ainmor/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ainmor)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ainmor)](https://github.com/ainmor/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ainmor&show_icons=true&count_private=true)  
 
