@@ -1,30 +1,56 @@
-### Hi there 👋, Ain Mor
-#### Software Design, Development and Architecture
-[Software Design, Development and Architecture](https://cvws.icloud-content.com/B/AVjFCxttMoOAk3UDEbKBghhlG1WPAZLwdquTjyoH7-p50MljxbkOychu/Black+White+Bold+Business+Channel+Youtube+Banner+%282048+%C3%97+1152+px%29_3.png?o=AizG6K-VJXeJrVTiuPY6XOLwBkG3Ic9ZhH6ylpbS3zgj&v=1&x=3&a=CAogPGC-pYh0rZuRcOxQWblj1BhG4O0tHpuBoSVDihErvAESbxDo97iErjAY6NSUhq4wIgEAUgRlG1WPWgQOychuaifl0rXPYO3jVPMZoTD6-Q8ZBIltMt0AKYjU86HOeFsxi4M4l8hzeXdyJ_3RiwhWIXaJLaW4UZHrgWOuyc8_E_ywD9dYOn-3nXIc_bAATj2z8g&e=1661628394&fl=&r=5c673025-3f1b-407d-9a37-736fae59b5b4-1&k=tJ9ji6VUHURmVOgPU6pwCw&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=72&s=KNyDHOQZOiYKjh9mT7RKlzg6vjk&cd=i)
+# Hi there 👋 I’m Ain Mor
 
-I'm Ain Mor from India, and I do Software Development. I really enjoy learning languages and frameworks like .NET, React, Angular as well as work in Visual Studio and Visual Studio Code. I also enjoy creating Wireframe, UI, Specification, Technical Documents and Architecture of the softwares required by an Enterprise or a Company in General.
+**Software Design • Development • Architecture**
 
-Skills: C# / C++ / Kendo UI / Blazor UI / .NET Core API / HTML / CSS / React / Angular
+I’m a software developer from India focused on building reliable, maintainable applications and clean system architectures. I enjoy working across backend + frontend, and I also like turning requirements into clear **wireframes**, **specs**, and **technical documentation** that teams can actually execute.
 
-- 🌱 I’m currently learning .NET Technologies 
-- 👯 I’m looking to collaborate on github 
-- 📫 How to reach me: ainbmor@gmail.com 
+---
 
+## 🧰 Tech & Skills
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ainmor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ain-mor-173977213/)  
+- **Languages:** C#, C++, TypeScript, JavaScript  
+- **Backend:** .NET / ASP.NET Core, REST APIs  
+- **Frontend:** Angular, React, Blazor, HTML, CSS  
+- **UI Tooling:** Kendo UI  
+- **Tools:** Visual Studio, VS Code, Git
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ainmor)](https://github.com/ainmor/github-profile-trophy)
+## 🌱 Current Focus
+- Strengthening modern **.NET** and **cloud-ready** application patterns
+- Building reusable UI and API foundations (clean architecture, modular design)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ainmor)](https://github.com/ainmor/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ainmor&show_icons=true&count_private=true)  
+## 🤝 Collaboration
+I’m open to collaborating on:
+- .NET / API projects
+- Angular / React frontends
+- Architecture, refactoring, performance, and tooling improvements
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ainmor)  
+---
 
-![GitHub metrics](https://metrics.lecoq.io/ainmor)  
+## 📫 Contact
+- **Email:** ainbmor@gmail.com  
+- **GitHub:** https://github.com/ainmor  
+- **LinkedIn:** *(add your profile link here)*
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ainmor)  
+---
 
-![Profile views](https://gpvc.arturio.dev/ainmor)  
+## 📊 GitHub Highlights
+
+<!-- Trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ainmor&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ainmor)
+
+<!-- Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ainmor&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ainmor&layout=compact&hide_border=true)
+
+<!-- Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=ainmor&hide_border=true)
+
+<!-- Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ainmor&hide_border=true)
+
+<!-- Metrics (optional, requires setup) -->
+<!-- ![Metrics](https://metrics.lecoq.io/ainmor?template=classic&config.timezone=Europe%2FBerlin) -->
