@@ -39,9 +39,5 @@ Open to collaborating on:
 
 ## 📊 GitHub Highlights
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ainmor&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ainmor&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ainmor&layout=compact&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=ainmor&hide_border=true) 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ainmor&hide_border=true)
