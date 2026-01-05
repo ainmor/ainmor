@@ -31,9 +31,9 @@ Open to collaborating on:
 ---
 
 ## 📫 Contact
-- **Email:** ainbmor@gmail.com  
-- **GitHub:** https://github.com/ainmor  
-- **LinkedIn:** https://www.linkedin.com/in/ain-bahadur-mor-173977213
+- **Email:** ...
+- **GitHub:** ...
+- **LinkedIn:** ...
 
 ---
 
